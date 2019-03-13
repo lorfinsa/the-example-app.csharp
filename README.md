@@ -1,12 +1,8 @@
 [![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.csharp.svg)](https://circleci.com/gh/contentful/the-example-app.csharp)
 
+## Nuevo contenido
+
 ## The ASP.NET example app
-
-The ASP.NET example app teaches the very basics of how to work with Contentful:
-
-- consume content from the Contentful Delivery and Preview APIs
-- model content
-- edit content through the Contentful web app
 
 The app demonstrates how decoupling content from its presentation enables greater flexibility and facilitates shipping higher quality software more quickly.
 
